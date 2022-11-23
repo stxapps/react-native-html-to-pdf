@@ -22,8 +22,6 @@ import java.io.RandomAccessFile;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.WritableMap;
 
-import com.tom_roush.pdfbox.pdmodel.PDDocument;
-
 /**
  * Converts HTML to PDF.
  * <p>
